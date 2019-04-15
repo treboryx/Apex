@@ -1,5 +1,8 @@
  ### Apex Legends discord bot with graphical player stats, all information around Apex Legends - champions, weapons, hitboxes, map, memes!
 <div align="center">
+ <a href="https://discordbots.org/bot/524950965112143882" >
+  <img src="https://discordbots.org/api/widget/524950965112143882.svg" alt="Apex" />
+</a>
   <img src="https://i.imgur.com/boDqbJK.png" alt="player-stats">
 </div>
 
